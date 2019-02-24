@@ -5,7 +5,7 @@
 
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/screen98.png)
 
-### Then open from Applications
+### Then open from Applications and he will be on the bar
 [![Modular Image Creation](https://i25.servimg.com/u/f25/18/50/18/69/captu517.png)
 
 
