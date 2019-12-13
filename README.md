@@ -1,5 +1,5 @@
 ### Github-Blog.app
-- A Simple Staus bar app to fast access. 
+- A Simple Status bar app to fast access. 
 - Double clic to install
 
 ### Download ➤ [Github-Blog.app](https://github.com/chris1111/Github-Blog.app/releases/tag/V1)
